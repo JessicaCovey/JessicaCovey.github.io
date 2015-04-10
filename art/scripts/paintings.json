@@ -1,0 +1,91 @@
+[
+  {
+    "title": "36",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 24 inches, Legnth 48 inches",
+    "year": "2013",
+    "price": "SOLD V.Holste",
+    "image_file": "36.jpg",
+    "width": 2589
+  },
+
+  {
+    "title": "Industry",
+    "medium": "Acrylic on canvaswith a gloss varnish",
+    "dimensions": "Height 24 inches, Legnth 24 1/2 inches",
+    "year": "2012",
+    "price": "SOLD Private Party, Gallery13",
+    "image_file": "technology.jpg",
+    "width": 1279
+  },
+
+  {
+    "title": "Passing",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 12 inches, Length 30 inches",
+    "year": "2013",
+    "price": "200",
+    "image_file": "passing.jpg",
+    "width": 3234
+  },
+
+  {
+    "title": "Austin",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 30 inches, Length 48 inches",
+    "year": "2013",
+    "price": "1,500",
+    "image_file": "austin.jpg",
+    "width": 2048
+  },
+
+  {
+    "title": "Empty Road",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 9 inches, Length 9 inches",
+    "year": "2013",
+    "price": "SOLD Private Party, Gallery13",
+    "image_file": "emptyroad.jpg",
+    "width": 1290
+  },
+
+  {
+    "title": "Rearview",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 31 inches, Length 32 1/4 inches, Width 1 inch",
+    "year": "2007",
+    "price": "$400",
+    "image_file": "rearview.jpg",
+    "width": 1333
+  },
+
+  {
+    "title": "Overpass",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 24 1/2 inches, Length 50 inches, Width 1 1/2 inches",
+    "year": "2011",
+    "price": "$800",
+    "image_file": "underpass.jpg",
+    "width": 2730
+  },
+
+  {
+    "title": "MSP Skyline",
+    "medium": "Acrylic on canvas with a gloss varnish",
+    "dimensions": "Height 24 inches, Length 45 1/2 inches, Width 1 1/2 inches",
+    "year": "2011",
+    "price": "SOLD Private Party",
+    "image_file": "mspskyline.jpg",
+    "width": 2424
+  },
+
+  {
+    "title": "Koi Tails",
+    "medium": "Oil on canvas",
+    "dimensions": "Height 31 inches, Length 32 1/4 inches, Width 1 inch",
+    "year": "2007",
+    "price": "SOLD Mr. & Mrs. Mensinger",
+    "image_file": "koitails.jpg",
+    "width": 1251
+  }
+]

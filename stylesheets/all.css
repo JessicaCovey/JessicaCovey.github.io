@@ -1,0 +1,202 @@
+/* line 8, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+body {
+  font: 100% "freight-sans-pro", "avenir", Arial, sans-serif;
+  color: #141314;
+  font-size: 14px;
+  line-height: 1.6em;
+  letter-spacing: 0px;
+  font-style: normal;
+  height: 100%;
+  width: 100%;
+  background-image: -webkit-linear-gradient(bottom, #F8F8FF 20%, #FFFFFD 60%); }
+
+/* line 19, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.center-block {
+  display: block;
+  margin: 0 auto; }
+
+/* line 23, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.navbar {
+  background-color: #FFF;
+  width: 100%;
+  padding: 30px 0;
+  font-family: "Arial", sans-serif;
+  display: inline-block;
+  border-bottom: transparent;
+  overflow: hidden;
+  margin-bottom: 0;
+  position: static; }
+
+/* line 34, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+a.name {
+  font-size: 30px;
+  color: #141314; }
+  /* line 38, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  a.name:hover {
+    background-color: transparent;
+    color: blue; }
+
+/* line 42, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+ul.pgs-block {
+  display: inline-block;
+  padding-left: 0px;
+  margin-right: 0px; }
+  /* line 47, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  ul.pgs-block li {
+    display: inline-block;
+    margin-top: 15px; }
+  /* line 51, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  ul.pgs-block a {
+    color: #141314;
+    padding-left: 30px;
+    font-size: 18px; }
+    /* line 56, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+    ul.pgs-block a:hover {
+      background: transparent;
+      text-decoration: underline; }
+
+/* line 60, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.intro {
+  letter-spacing: 0.5px;
+  padding-bottom: 60px; }
+
+/* line 64, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.pixels {
+  letter-spacing: 0.5px;
+  padding-bottom: 100px; }
+
+/* line 68, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.work {
+  text-align: center; }
+  /* line 70, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .work .banner {
+    background-color: #EEE845;
+    margin-bottom: 110px; }
+    /* line 74, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+    .work .banner .logo {
+      padding: 194px 0; }
+  /* line 77, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .work .imac-desktop {
+    max-width: 100%; }
+  /* line 80, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .work .pages {
+    margin: 150px 0 150px;
+    padding: 20px 0px 0px;
+    background-color: #FFF;
+    border-top: solid 2px #e6e7e8; }
+    /* line 86, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+    .work .pages h1 {
+      text-align: center;
+      margin-bottom: 50px; }
+    /* line 90, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+    .work .pages .screen {
+      box-shadow: 0px 0px 56px #e6e7e8; }
+  /* line 93, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .work .ipad-strip {
+    background-color: #FFF;
+    padding: 80px 0px;
+    width: 100%; }
+  /* line 98, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .work .team {
+    margin: 60px 0; }
+    /* line 101, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+    .work .team .phone {
+      width: 330px;
+      padding: 60px 0 90px; }
+
+/* line 105, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.profile {
+  margin-bottom: 15px; }
+
+/* line 108, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.caption {
+  margin-bottom: 20px; }
+
+/* line 111, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.studio {
+  width: 100%;
+  height: 100%;
+  border: solid 1px #333333; }
+
+/* line 116, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.description {
+  padding: 0px;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  line-height: 1.5em;
+  font-weight: normal;
+  font-size: 14px; }
+
+/* line 124, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.mao {
+  width: 100%;
+  height: 100%;
+  margin-top: 40px;
+  border: solid 1.5px #333333; }
+
+/* line 130, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.amzn {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 50px;
+  border: solid 1.5px #FBB41E; }
+
+/* line 136, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.card {
+  width: 100%;
+  height: 100%;
+  margin-top: 40px;
+  border: solid 2px #333333; }
+
+/* line 142, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+.last-pic {
+  margin-bottom: 0; }
+
+/* line 145, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+footer {
+  background-color: #141314;
+  color: #FFF;
+  padding-bottom: 15px;
+  margin-top: 100px;
+  font-size: 12px;
+  text-align: center;
+  position: relative;
+  top: 42px; }
+  /* line 155, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  footer #social {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    margin: 20px 0 0; }
+  /* line 161, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  footer .fa {
+    color: #FFF;
+    width: 100px;
+    height: 30px; }
+
+@media (max-width: 767px) {
+  /* line 168, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .navbar {
+    position: static;
+    margin: 0; }
+
+  /* line 172, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  a.name {
+    padding-left: 0; }
+
+  /* line 176, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .navbar.small .pages {
+    -webkit-transform: none; }
+
+  /* line 180, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  .navbar.small a.name {
+    -webkit-transform: none; }
+
+  /* line 184, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  li a.pages {
+    padding-left: 0;
+    padding-right: 20px; }
+
+  /* line 188, /Users/jessicacovey/Code/test/source/stylesheets/all.css.sass */
+  img.studio, .intro {
+    margin: 0; } }

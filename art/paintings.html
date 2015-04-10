@@ -1,0 +1,74 @@
+<html>
+  <head>
+    <title>Jessica Covey</title>
+    <link rel="stylesheet" href="scripts/gallery.css" type="text/css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script type="application/json" id="data" src="scripts/paintings.json"></script>
+    <script type="text/javascript">
+      $(function() {
+        var images = $("#images");
+        var navigation = $("#navigation");
+        var files;
+
+        var setSizes = function() {
+          navigation.empty();
+          images.empty();
+
+          var left = 0;
+          var createNavLinkClickHandler = function(left) {
+            var _left = left;
+            return function() {
+              $('body').animate({
+                scrollLeft: _left
+              }, 500);
+            }
+          };
+
+          for (var i = 0, len = files.length; i < len; i++) {
+            var image = files[i];
+            var imageHeight = $(window).height() - 111;
+            var widthScaleFactor = imageHeight / 1280;
+            var imageWidth = Math.floor(image.width*widthScaleFactor);
+            var img = $("<div class='image'><img src='paintings/" + image.image_file + "' style='height:" + imageHeight + "px; width:" + imageWidth + "px;' /><div class='info' style='width:"+(imageWidth-24)+"px;'><a href='paintings/" + image.image_file + "'>" + image.title + "</a> ("+image.year+")<br />" + image.medium + "<br />" + image.dimensions + "<br/>" + image.price + "</div></div>")
+              .appendTo(images)
+            var nav = $("<a href='javascript:void(0);'>" + (i + 1) + "</a>")
+              .appendTo(navigation)
+              .click(createNavLinkClickHandler(left));
+            left += imageWidth + 24;
+          }
+          navigation.append('<a class="home" href="/">home</a>')
+          images.width(left);
+        }
+
+        $.ajax({
+          url: 'scripts/paintings.json',
+          dataType: 'json',
+          success: function(data) {
+            files = data;
+            setSizes();
+          }
+        });
+
+        $(window).resize(setSizes);
+      });
+    </script>
+    <script type="text/javascript">
+
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-27322590-1']);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
+  </head>
+  <body>
+    <h1>paintings</h1>
+    <div id="images"></div>
+    <div id="navigation"></div>
+  </body>
+</html>

@@ -1,0 +1,83 @@
+[
+ {
+   "title": "Grand Mal",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 38 inches, Length 24 inches, Width 1 inch",
+   "year": "2008",
+   "price": "$300",
+   "image_file": "002-scan.jpg",
+   "width": 842
+ },
+ {
+   "title": "Reconstructed",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 38 inches, Length 24 inches, Width 1 inch",
+   "year": "2008",
+   "price": "$300",
+   "image_file": "003-scan.jpg",
+   "width": 842
+ },
+ {
+   "title": "I See All The Things That I Could Have Done, That I Should Have Done",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 24 inches, Length 38, Width 1 inch",
+   "year": "2008",
+   "price": "$250",
+   "image_file": "001-scan.jpg",
+   "width": 1946
+ },
+ {
+   "title": "Nature Can Not Make What Man Can Make",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 38 inches, Length 24 inches, Width 1 inch",
+   "year": "2008",
+   "price": "$275",
+   "image_file": "004-scan.jpg",
+   "width": 842
+ },
+ {
+   "title": "Overrun",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 38 inches, Length 24 inches, Width 1 inch",
+   "year": "2008",
+   "price": "$300",
+   "image_file": "006-scan.jpg",
+   "width": 842
+ },
+ {
+   "title": "Urban Congress",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 24 inches, Length 38, Width 1 inch",
+   "year": "2008",
+   "price": "$275",
+   "image_file": "008-scan.jpg",
+   "width": 1946
+ },
+ {
+   "title": "That Chaos We Feel Is Beautiful",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 24 inches, Length 38, Width 1 inch",
+   "year": "2008",
+   "price": "$250",
+   "image_file": "009-scan.jpg",
+   "width": 1946
+ },
+ {
+   "title": "Pseudo Mockery",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 38 inches, Length 24 inches, Width 1 inch",
+   "year": "2008",
+   "price": "$300",
+   "image_file": "010-scan.jpg",
+   "width": 842
+ },
+ {
+   "title": "The One Constant ",
+   "medium": "Inkjet print on canvas",
+   "dimensions": "Height 24 inches, Length 38, Width 1 inch",
+   "year": "2008",
+   "price": "$300",
+   "image_file": "011-scan.jpg",
+   "width": 1946
+ }
+]
