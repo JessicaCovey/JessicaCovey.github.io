@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="17px" viewBox="0 0 28 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>OVEY</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="54.4957299%" x2="46.1461828%" y2="58.6370912%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.00382133152" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.823228034" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.46796519%" x2="50%" y2="15.5215376%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#262626" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-3" d="M20.4999996,9.25 L16.4341216,9.25 L11.5658784,9.25 L15.5658784,16.2502594 L16,17.0100002 L16.4341216,16.2502594 L20.4999996,9.25 L20.4999996,9.25 Z"></path>
+        <linearGradient x1="50%" y1="24.6064259%" x2="50%" y2="37.1654339%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.0126245471" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.852439991" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-5" d="M28.8494914,8.25 L24.7854887,8.25 L19.919491,8.25 L23.917646,15.2502593 L24.3515673,16.0100002 L24.7854886,15.2502593 L28.8494914,8.25 L28.8494914,8.25 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="covey-logo" sketch:type="MSLayerGroup" transform="translate(-2.000000, -3.000000)">
+            <g id="Page-1">
+                <g id="ovey">
+                    <g id="Page-1">
+                        <g id="JC-logo">
+                            <g id="Group">
+                                <g id="OVEY">
+                                    <g id="Group">
+                                        <ellipse id="Oval-3-Copy" stroke="url(#linearGradient-1)" sketch:type="MSShapeGroup" transform="translate(11.919491, 11.495459) rotate(27.000000) translate(-11.919491, -11.495459) " cx="11.919491" cy="11.4954587" rx="9.5" ry="7.5"></ellipse>
+                                        <g id="Shape">
+                                            <use stroke="url(#linearGradient-2)" stroke-width="1" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                                            <use stroke="none" xlink:href="#path-3"></use>
+                                        </g>
+                                        <g id="Shape-Copy">
+                                            <use stroke="url(#linearGradient-4)" stroke-width="1" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                                            <use stroke="none" xlink:href="#path-5"></use>
+                                        </g>
+                                        <circle id="Oval-3" stroke="#585858" sketch:type="MSShapeGroup" cx="11" cy="12" r="4"></circle>
+                                        <path d="M22.8988354,19.0141333 L25.1427117,14.9090445" id="Line-Copy-3" stroke="#252525" stroke-width="0.9" sketch:type="MSShapeGroup"></path>
+                                        <path d="M18,8.05999994 L22.5,8.06107374" id="Line" stroke="#444444" sketch:type="MSShapeGroup"></path>
+                                        <path d="M18,15.0610737 L22.5,15.0610737" id="Line-Copy" stroke="#444444" sketch:type="MSShapeGroup"></path>
+                                        <path d="M18.5,15.5 L18.5,8.5" id="Line-Copy-5" stroke="#444444" sketch:type="MSShapeGroup"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
