@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1403px" height="611px" viewBox="0 0 1403 611" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>desert</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="79.4588856%" y1="-41.1328313%" x2="76.5592635%" y2="121.599941%" id="linearGradient-1">
+            <stop stop-color="#809CAD" offset="0%"></stop>
+            <stop stop-color="#1C0D0D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.8117343%" y1="57.2351174%" x2="19.1471239%" y2="89.3376152%" id="linearGradient-2">
+            <stop stop-color="#1C0D0D" offset="0%"></stop>
+            <stop stop-color="#4A4A4A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-43.9750063%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#809CAD" offset="0%"></stop>
+            <stop stop-color="#1C0D0D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="46.2615728%" y1="50%" x2="46.2615728%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#405B61" offset="0%"></stop>
+            <stop stop-color="#928A7D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.3485928%" y1="50%" x2="74.3485928%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#281E1E" offset="0%"></stop>
+            <stop stop-color="#BD9292" stop-opacity="0.892719656" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.4372249%" y1="100%" x2="74.4372249%" y2="-49.1162669%" id="linearGradient-6">
+            <stop stop-color="#240303" offset="0%"></stop>
+            <stop stop-color="#FFF3DE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1.11022302e-14%" x2="50%" y2="97.4692436%" id="linearGradient-7">
+            <stop stop-color="#2ABFD4" stop-opacity="0.555253623" offset="0%"></stop>
+            <stop stop-color="#EF9E91" stop-opacity="0.581040534" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FBFFC3" offset="0%"></stop>
+            <stop stop-color="#F4D2BF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.950778517   0 0 0 0 1   0 0 0 0 0.893821023  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="desert" sketch:type="MSLayerGroup" transform="translate(3.000000, 2.000000)">
+            <path d="M1.24196421,603.548525 L1.24196421,514.636258 L84.1957009,514.636258 L281.55869,498.803571 L519.14232,494.803571 L617.00173,485.501165 L855.00173,485.501165 L1033.30602,496.803571 C1033.30602,496.803571 1153.00173,505.594332 1210.50173,496.803571 C1268.00173,488.012811 1396.25979,485.501165 1396.25979,485.501165 L1396.25976,544.524845 L1396.25976,603.548525 L1.24196421,603.548525 Z" id="bottom-mountaim" opacity="0.887112868" fill-opacity="0.847571332" fill="#1B0909" sketch:type="MSShapeGroup" transform="translate(698.750875, 544.524845) scale(-1, 1) translate(-698.750875, -544.524845) "></path>
+            <g id="Left-Mountains" transform="translate(0.000000, 389.518634)" sketch:type="MSShapeGroup">
+                <path d="M0.494675404,99.8684591 L193.469557,1.72538963 C193.469557,1.72538963 255.701395,12.4722271 342.935734,16.7232318 C347.116581,16.9269681 454.038937,33.988361 454.038937,33.988361 L593.321885,1.72538963 L653.327193,16.7232318 L653.327193,99.8684563 L0.494675404,99.8684591 Z" id="back-mid-left-copy" fill="url(#linearGradient-1)" transform="translate(326.910934, 50.796924) scale(-1, 1) translate(-326.910934, -50.796924) "></path>
+                <path d="M1.58260375,0.15632967 C1.58260375,0.15632967 373.677952,33.7417206 467.418903,54.4455154 C521.815556,66.4596581 794.499981,54.4455142 794.499981,54.4455142 C794.499981,54.4455142 437.069176,111.289734 236.35286,139.711843 C201.773451,144.608405 132.614632,154.401527 132.614632,154.401527 L63.8601838,133.88173 L0.586162464,141.923734 L1.58260375,0.15632967 Z" id="far-left-dark" opacity="0.850279851" fill="url(#linearGradient-2)" transform="translate(397.543072, 77.278928) scale(1, -1) translate(-397.543072, -77.278928) "></path>
+                <polygon id="center-back" fill-opacity="0.819999993" fill="url(#linearGradient-3)" transform="translate(396.243769, 67.051163) rotate(-1.000000) translate(-396.243769, -67.051163) " points="373.650513 113.542113 10.0138829 103.111778 4.13076854 56.1363898 341.989503 38.5301543 429.816497 20.5602103 649.674609 88.0367083 788.356769 113.542116 "></polygon>
+                <polygon id="back-mid-left" opacity="0.242945429" fill="url(#linearGradient-4)" transform="translate(1072.560133, 77.278928) scale(-1, 1) rotate(1.000000) translate(-1072.560133, -77.278928) " points="749.13557 133.277185 749.13557 37.0378455 927.788326 21.2806717 1088.84727 37.0378455 1164.18718 21.2806717 1395.9847 84.3554559 "></polygon>
+                <g id="center-Left-Copy" transform="translate(676.580071, 2.333960)" fill="url(#linearGradient-5)" opacity="0.820895522">
+                    <g id="MT2-+-MT2-Copy-2">
+                        <polygon id="MT2-Copy-2" points="0.662450479 95.2075188 302.91814 64.8216255 411.53024 27.5652889 557.010698 27.5652904 669.608562 0.758907117 720.427068 20.2957622 719.430626 131.610408 "></polygon>
+                    </g>
+                </g>
+                <path d="M503.65007,116.016972 L680.151224,20.4111451 C680.151224,20.4111451 877.993197,38.1244806 966.616704,43.5705106 C1031.03867,47.5293246 1128.26448,95.4929389 1128.26448,95.4929389 L1256.58879,116.01697 L503.65007,116.016972 Z" id="center-back-copy" opacity="0.899999976" fill-opacity="0.140000001" fill="url(#linearGradient-6)" transform="translate(880.119431, 68.214058) scale(-1, 1) rotate(1.000000) translate(-880.119431, -68.214058) "></path>
+            </g>
+            <rect id="Background-1400" opacity="0.969507929" fill="url(#linearGradient-7)" filter="url(#filter-8)" sketch:type="MSShapeGroup" x="0.992882562" y="0" width="1395.01779" height="602.795031"></rect>
+            <ellipse id="MOON" stroke="#B8E986" fill="url(#linearGradient-9)" filter="url(#filter-10)" sketch:type="MSShapeGroup" cx="896.793594" cy="190.382764" rx="22.9181495" ry="19.5908385"></ellipse>
+        </g>
+    </g>
+</svg>
