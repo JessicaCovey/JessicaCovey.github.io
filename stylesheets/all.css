@@ -149,15 +149,15 @@ ul.pgs-block {
 /* line 153, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
 #illustrations .vectors {
   width: 100%; }
-/* line 159, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
-#illustrations .desert {
+/* line 156, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+#illustrations .p80 {
   padding-top: 80px; }
-/* line 162, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+/* line 159, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
 #illustrations .bridge {
   background-color: #7215FF;
   margin-top: 100px; }
 
-/* line 171, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+/* line 168, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
 footer {
   background-color: #141314;
   color: #FFF;
@@ -167,41 +167,41 @@ footer {
   text-align: center;
   position: relative;
   top: 42px; }
-  /* line 181, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 178, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   footer #social {
     padding-top: 30px;
     padding-bottom: 15px;
     font-size: 20px;
     margin: 20px 0 0; }
-  /* line 187, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 184, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   footer .fa {
     color: #FFF;
     width: 100px;
     height: 30px; }
 
 @media (max-width: 767px) {
-  /* line 196, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 193, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   .navbar {
     position: static;
     margin: 0; }
 
-  /* line 200, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 197, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   a.name {
     padding-left: 0; }
 
-  /* line 204, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 201, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   .navbar.small .pages {
     -webkit-transform: none; }
 
-  /* line 208, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 205, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   .navbar.small a.name {
     -webkit-transform: none; }
 
-  /* line 212, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 209, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   li a.pages {
     padding-left: 0;
     padding-right: 20px; }
 
-  /* line 216, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
+  /* line 213, /Users/jessicacovey/Code/jessicacovey.com/source/stylesheets/all.css.sass */
   img.studio, .intro {
     margin: 0; } }
